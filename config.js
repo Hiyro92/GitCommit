@@ -7,6 +7,6 @@ config.app={};
 config.admin.name="asd";
 config.admin.email="xesssssseexxx";
 config.app.name="RegenTest";
-config.app.url="http://www.xefss.com";
+config.app.url="http://www.hallp.com";
 
 module.exports=config
