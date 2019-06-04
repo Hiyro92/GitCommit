@@ -1,0 +1,10 @@
+.stateActiv{
+    background-color: chartreuse;
+}
+.stateDeactiv{
+    background-color: green;
+}
+
+.state{
+    background-color: gray;
+}
